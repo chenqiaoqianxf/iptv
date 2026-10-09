@@ -8,11 +8,11 @@ http://107.150.50.82:81/live/cctv3.m3u8?tm=1791588210&key=d7aa0c93723b072305098e
 #EXTINF:-1 tvg-name="CCTV4" group-title="自选",CCTV4中文国际
 http://63.141.226.98:81/live/cctv4md.m3u8?tm=1791588220&key=50c43e74d5e788c624c38ff197b1f9a3
 #EXTINF:-1 tvg-name="CCTV5" group-title="自选",CCTV5体育
-http://204.12.221.218:8181/3m1080p/cctv5.m3u8
+https://live.huarenlivewebsite1.top/stream/CCTV5_MG.m3u8?auth=HtoaqbN7q6OCL9zc-tmaNdi9hZ0Fd9kszDYmVu_17YI=
 #EXTINF:-1 tvg-name="CCTV5+" group-title="自选",CCTV5+体育赛事
-http://204.12.221.218:8181/3m1080p/cctv5p.m3u8
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078001_dlna.m3u8
 #EXTINF:-1 tvg-name="广东体育" group-title="自选",广东体育
-http://204.12.221.218:8181/3m1080p/gdty.m3u8
+https://cdn.qd.je/163189/gdty
 #EXTINF:-1 tvg-name="CCTV6" group-title="自选",CCTV6电影
 http://192.187.115.106:81/live/cctv6md.m3u8?tm=1791588274&key=460d34f7899b81ae564c8607870ae8aa
 #EXTINF:-1 tvg-name="CCTV7" group-title="自选",CCTV7国防军事
@@ -24,7 +24,7 @@ http://63.141.226.98:81/live/cctv9md.m3u8?tm=1791588299&key=371013ba46d3089c34ff
 #EXTINF:-1 tvg-name="CCTV10" group-title="自选",CCTV10科教
 http://63.141.239.226:81/live/cctv10md.m3u8?tm=1791588305&key=4f355b359646b808b875a3afa913e22e
 #EXTINF:-1 tvg-name="CCTV11" group-title="自选",CCTV11戏曲
-http://74.91.26.218:82/live/cctv11hd.m3u8
+https://cdn.qd.je/163189/cctv11
 #EXTINF:-1 tvg-name="CCTV12" group-title="自选",CCTV12社会与法
 http://74.91.26.218:81/live/cctv12md.m3u8?tm=1791588330&key=ec4d81c53870c52dd663987e6f0806b1
 #EXTINF:-1 tvg-name="CCTV13" group-title="自选",CCTV13新闻
