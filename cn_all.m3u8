@@ -1,35 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" group-title="自选",CCTV1综合
-https://cdn.qd.je/163189/cctv1
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f6fdb0e8188a19f0f32e2e4a2e411557&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261107065032&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.188.159&SecurityKey=20261107065032&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ce7a2e875c0d9518265dc620579d88ff&ddCalcu=fcfev87a8ayd2a9e7857052c60cdd9556128&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CCTV2" group-title="自选",CCTV2财经
-https://cdn.qd.je/163189/cctv2
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=be71ca2ea61df1b2ba6083560c3c5b44&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20261107065031&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=39.103.182.111&SecurityKey=20261107065031&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b8712c50a2ab31fec7f7393a569a2773&ddCalcu=3b78v77a21za2a9c6550aa329a3b73f17fce&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CCTV3" group-title="自选",CCTV3综艺
-https://cdn.qd.je/163189/cctv3
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=70cf82f3080951e72671d11b09b098b5&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20261107065032&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=39.103.188.159&SecurityKey=20261107065032&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1f6e95f7852884c899908745ca9f9a7c&ddCalcu=c17fva6a9eaf9a95afc75845728808949c98&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CCTV4" group-title="自选",CCTV4中文国际
-https://cdn.qd.je/163189/cctv4
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=a041d9676e053c0e4473a304c59d2e30&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20261107065032&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=39.103.188.159&SecurityKey=20261107065032&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6ec458f462f8f67b5d2729680b267bbf&ddCalcu=f6bevbca74y65a28bf0486629f287f26d75b&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CCTV5" group-title="自选",CCTV5体育
 http://104.152.209.54:8082/live/cctv5-720p.m3u8?u=108.41.114.108&t=1794007153&k=dbf1eae79b0277162a22c8fddcfb7c7d
 #EXTINF:-1 tvg-name="CCTV5+" group-title="自选",CCTV5+体育赛事
-https://todaytv.us/ysp/2024078001_dlna.m3u8
-#EXTINF:-1 tvg-name="广东体育" group-title="自选",广东体育
-https://cdn.qd.je/163189/gdty
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=35a2d74735d84ead81be8f33adc81419&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261107065033&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=39.103.188.159&SecurityKey=20261107065033&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4c1920be9c526f8efa199c965807be3b&ddCalcu=b43cve1ab9x72a008b5e699cc592961fa8fe&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CCTV6" group-title="自选",CCTV6电影
-https://cdn.qd.je/163189/cctv6
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=6fd60ae5ee2dd8e92fd6ec9b4a5ac1dc&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20261107065034&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=39.103.182.111&SecurityKey=20261107065034&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1eef2edcb572306232ab7f477e48bfaf&ddCalcu=f1aevfeabfb82a4eed7c7b45f772b3a02632&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CCTV7" group-title="自选",CCTV7国防军事
-https://cdn.qd.je/163189/cctv7
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/51/index.m3u8?msisdn=a3849c0c6c773bffa18e7ba3f740fb6c&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20261107065034&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=39.103.188.159&SecurityKey=20261107065034&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=16d5f5bf3f53d363d645b786c6f3ab31&ddCalcu=1136vbdaa5d3faf56bcf638f75b35d4366d3&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CCTV8" group-title="自选",CCTV8电视剧
-https://cdn.qd.je/163189/cctv8
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=0f96040b7243c00762e2e3ef05547e37&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20261107065034&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=39.103.188.159&SecurityKey=20261107065034&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=53d8f94b80a645fd49cafcd3f8b3b352&ddCalcu=2553v3dab8b3fab984fb38d0caf6a4c59f4d&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CCTV9" group-title="自选",CCTV9纪录
-https://cdn.qd.je/163189/cctv9
-#EXTINF:-1 tvg-name="CCTV10" group-title="自选",CCTV10科教
-https://cdn.qd.je/163189/cctv10
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=0ad84724f26e8a580fed3a8ff9a72000&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20261107065035&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=39.103.188.159&SecurityKey=20261107065035&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2b1466b955c9e459e3a4f2d484bb9ec2&ddCalcu=22cbve1a94db6ab64b8945d52cf94ea435e9&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CCTV12" group-title="自选",CCTV12社会与法
-https://cdn.qd.je/163189/cctv12
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=62e83c2380b0f5211e833c489c5e4a89&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20261107065036&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=39.103.182.111&SecurityKey=20261107065036&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8a81bd5718bf7c1e933379c65d920fe5&ddCalcu=58eavf8a01d2ba9dd55761c89b7f373c319e&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CCTV13" group-title="自选",CCTV13新闻
-https://cdn.qd.je/163189/cctv13
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=954d72a09d51ba282328daf3ada30f59&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20261107065039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=39.103.188.159&SecurityKey=20261107065039&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a42bdb4d8bc92e0028be1c1ad04dcdb2&ddCalcu=2ab4vd2acbydda4b04dda81bcc19e2be8020&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CCTV15" group-title="自选",CCTV15音乐
-https://cdn.qd.je/163189/cctv15
-#EXTINF:-1 tvg-name="CCTV16" group-title="自选",CCTV16奥林匹克
-https://cdn.qd.je/163189/cctv16
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=ec24a762c2b28b2556e7a27d8c40f48d&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20261107065039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=39.103.188.159&SecurityKey=20261107065039&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e30fe5b213e70108f1151544c100e0f1&ddCalcu=1ef3v00aefa0ea051bc241435e17501110f8&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CCTV17" group-title="自选",CCTV17农业农村
-https://cdn.qd.je/163189/cctv17
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=88c8ae71297787221dab4bb345ee4015&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20261107065039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=39.103.188.159&SecurityKey=20261107065039&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f1dc3c674dbdc02f1056a5548ccf79b1&ddCalcu=1fb1v9da7caf3accc687445d5bad6c50021f&sv=10004&ct=android
